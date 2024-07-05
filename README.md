@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrinceNagarkoti
 - 👀 I’m interested in web development / Software Development.
-- 🌱 I’m currently learning dvanced coding techniques and algorithms through my 100 Days of Code challenge.
+- 🌱 I’m currently learning advanced coding techniques and algorithms through my 100 Days of Code challenge.
 - 💞️ I’m looking to collaborate on projects related to web development 
 - 📫 How to reach me : www.linkedin.com/in/prince-nagarkoti
 - 😄 Pronouns: he/him.
